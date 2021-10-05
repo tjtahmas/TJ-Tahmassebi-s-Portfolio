@@ -101,6 +101,13 @@ main {
   text-align: right;
 }
 
+.hero-banner img{ /*Added styling for headshot image*/
+  position:relative;
+  border: 12px solid rgb(68, 88, 120);
+  padding: 2px;
+  margin:8px;
+  }
+
 .hero-banner div {
   flex: 0 0 90%;
 }
@@ -221,11 +228,11 @@ main {
 
 /* portfolio project images */
 .run-buddy {
-  background-image: url("../images/02-run-buddy.jpg");
+  background-image: url("../images/02-portfolio-1.jpg");
 }
 
 .led-wall {
-  background-image: url("../images/02-portfolio-1.jpg");
+  background-image: url("../About\ Me.png"); /*Changed background image to screenshot of the project*/
 }
 
 .react-calc {
@@ -237,7 +244,7 @@ main {
 }
 
 .surf-report {
-  background-image: url("../images/02-portfolio-4.jpg");
+  background-image: url("../Horiseon.png"); /*Changed background image to screenshot of the project*/
 }
 
 /* end portfolio project images */
