@@ -232,11 +232,11 @@ main {
 }
 
 .led-wall {
-  background-image: url("../About\ Me.png"); /*Changed background image to screenshot of the project*/
+  background-image: url("../Dashboard.png"); /*Changed background image to screenshot of the project*/
 }
 
 .react-calc {
-  background-image: url("../images/02-portfolio-2.jpg");
+  background-image: url("../Generator.png");
 }
 
 .pastel-puzzles {
@@ -244,7 +244,7 @@ main {
 }
 
 .surf-report {
-  background-image: url("../Horiseon.png"); /*Changed background image to screenshot of the project*/
+  background-image: url("../Spotiweather.png"); /*Changed background image to screenshot of the project*/
 }
 
 /* end portfolio project images */
